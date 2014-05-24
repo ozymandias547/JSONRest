@@ -1,0 +1,14 @@
+{
+  "name": "quoteManager",
+  "version": "0.0.1",
+  "description": "A test app integrating a full stack using Ember/Node RESTful JSON/MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Jung",
+  "dependencies": {
+    "express": "3.x",
+    "mongodb": "*"
+  }
+}

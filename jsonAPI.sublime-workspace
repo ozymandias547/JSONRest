@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"todo",
+				"todo"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"sess",
+				"session_destroy"
+			],
+			[
+				"sty",
+				"list-style-type"
+			],
+			[
+				"mysql_",
+				"mysql_password"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/public/views/index.html",
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/public/js/app.js",
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/package.json",
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/fixtureData.js",
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/quoteRoutes.js",
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/app.js",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project2/js/app.js",
+		"/Users/jgjung/Documents/Development/testing/node/expressProject/app.js",
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/public/app.js",
+		"/Users/jgjung/Documents/Development/testing/node/expressProject2/app.js",
+		"/Users/jgjung/Documents/Development/testing/node/jsonAPI/public/ember-app.js",
+		"/Users/jgjung/Documents/Development/testing/node/expressProject/Procfile",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/styles.css",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/js/router.js",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/index.html",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/js/application.js",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/js/models/store.js",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/js/models/todo.js",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/js/controllers/todos_controller.js",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project3/js/lib/ember-data.js",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project2/index.html",
+		"/Users/jgjung/Documents/Development/testing/Ember/Project1/home.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/css/styles.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/contact.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/contact.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/download.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/register.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/class/user.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/successful.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/business_detail.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Peony/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/Peony/includes/languages.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/projects/Peony/index.php",
+		"/Users/jgjung/Desktop/Peony Bootstrap/css/styles.css",
+		"/Users/jgjung/Desktop/Peony Bootstrap/contact.php",
+		"/Users/jgjung/Desktop/Peony Bootstrap/successful.php",
+		"/Users/jgjung/Desktop/Peony Bootstrap/business_detail.php",
+		"/Users/jgjung/Desktop/Peony Bootstrap/download.php",
+		"/Users/jgjung/Desktop/Peony Bootstrap/register.php",
+		"/Users/jgjung/Desktop/Peony Bootstrap/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"outlet",
+			"todo",
+			"string",
+			"toggle",
+			"click",
+			"userLogin",
+			"logo",
+			"file",
+			"input",
+			"login",
+			"btn",
+			"download",
+			"html",
+			"img",
+			"a",
+			"active",
+			"font",
+			"url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "jsonAPI.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
